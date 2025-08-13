@@ -1,0 +1,5 @@
+{
+    "port": 8001,
+    "routes": "./router.json",
+    "middlewares": ["./middlewares/new-claim.js"]
+}
