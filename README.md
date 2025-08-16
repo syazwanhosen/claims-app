@@ -57,6 +57,16 @@ cd mock
 ```
 
 ```bash
+npm install
+```
+
+Or using Yarn:
+
+```bash
+yarn install
+```
+
+```bash
 npm run mock
 ```
 
